@@ -1,0 +1,25 @@
+
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #222;
+    color: white;
+    padding: 1rem 0;
+}
+
+.guitar-showcase {
+    margin-top: 2rem;
+}
+
+#guitar-image {
+    max-width: 90%;
+    height: auto;
+    border: 3px solid #333;
+    border-radius: 8px;
+}
